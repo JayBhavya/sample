@@ -1,0 +1,74 @@
+Karnataka PGCET MCA Syllabus
+
+Karnataka PGCET MCA Syllabus 2015:-
+
+Mathematics
+
+Algebra:-
+
+Fundamental operations in Algebra, Expansion, Factorization, Simultaneous Linear/Quadratic equations, Indices, Logarithms, Arithmetic, Geometric and Harmonic progressions, Binomial theorem, Permutations and Combinations, Surds, Determinants, Matrices and application to solution of simultaneous linear equations Co-Ordinate.
+
+Geometry:
+
+Rectangular Cartesian co-ordinates, Equations of Line, Mid-point, Intersections etc, Equations of a Circle, Distance formulae, Pair of straight lines, Parabola, Ellipse and Hyperbola, Simple Geometric transformations such as Translation, Rotation, Scaling.
+
+Vector: Position vector, Addition and Subtraction of Vectors, Scalar and Vector products.Trigonometry:
+
+Simple identities, Trigonometric equations, Properties of triangles, Inverse function.
+
+Probability and Statistics:
+
+Basic concept of Probability theory, Averages, Dependent and Independent events, Frequency distributions and measures of dispersions, Skewness and Kurtosis, Random variable and Distribution functions, Mathematical Expectations, Binomial, Poisson,
+
+Normal distributions, Curve fitting and Principle of Least Squares, Correlation and Regression.
+
+Computer Awareness
+
+Computer Basics:
+
+Organization of a Computer, Central Processing Unit (CPU), Input/Output devices, Computer memory, Back-up devices, Computer
+
+Languages, Operating Systems.
+
+Data Representation:
+
+Representation of Characters, Integers and Fractions, Binary and Hexadecimal representations, Binary arithmetic: Addition,
+
+Subtraction, Multiplication,Division, Two’s complement arithmetic, Floating-point representation of numbers, Normalized
+
+Floating-point representation.
+
+3. Analytical Ability and Logical Reasoning:
+
+The question in this section will cover Logical reasoning, Quantitative reasoning and Visuospatial reasoning.
+
+General Awareness
+
+This section shall carry questions to test the aspirant's general awareness about Business, Finance,Industry, Transportation, Scientific
+
+inventions, Governance, Healthcare and Culturaldimensions etc.
+
+5. General English:Proficiency in English Language
+
+Synonyms; Antonyms; One word substitution; Ologies and Ographies; Idioms and phrases; Pairs expressing relationships; Grammar;
+
+Famous Books in English Literature; Sentence Correction & Vocabulary.
+
+Paper Pattern
+
+Following is the paper pattern for Karnataka PG CET MCA Exam 2015:
+
+The common entrance test shall be of two hours duration.
+
+Question Paper shall be for a maximum of 100 marks.
+
+PGCET MCA question paper shall contain objective type questions only, with varying degree of difficulty. The question paper shall contain 80 questions.
+
+Part A shall have 60 questions of One Mark each, Part B shall have 20 question of Two Mark each covering the full syllabus.
+
+1. Mathematics - 40
+2. Computer Awareness - 20
+3. Analytical Ability & Logical Reasoning - 15
+4. General Awareness - 10
+5. General English - 15
+- See more at: http://www.eduvidya.com/Entrance-Exam/Karnataka-PGCET-MCA#sthash.AP2Xr03v.dpuf
